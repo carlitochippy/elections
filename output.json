@@ -1,0 +1,1744 @@
+{
+    "50": {
+        "Name": "Clarendon Central",
+        "Data": [
+            {
+                "Boxes Counted": "110 of 110",
+                "Candidates": [
+                    {
+                        "Last Name": "HENRY",
+                        "First Name": "LESTER MICHAEL",
+                        "Party": "JLP",
+                        "Votes": 6745,
+                        "Titles": "OJ, CD",
+                        "Percentage": 64
+                    },
+                    {
+                        "Last Name": "JESS",
+                        "First Name": "ZULEIKA",
+                        "Party": "PNP",
+                        "Votes": 3742,
+                        "Titles": "",
+                        "Percentage": 36
+                    }
+                ]
+            }
+        ]
+    },
+    "49": {
+        "Name": "Clarendon North Central",
+        "Data": [
+            {
+                "Boxes Counted": "100 of 100",
+                "Candidates": [
+                    {
+                        "Last Name": "MORGAN",
+                        "First Name": "ROBERT",
+                        "Party": "JLP",
+                        "Votes": 5726,
+                        "Titles": "",
+                        "Percentage": 59
+                    },
+                    {
+                        "Last Name": "BRENNAN",
+                        "First Name": "DESMOND",
+                        "Party": "PNP",
+                        "Votes": 3934,
+                        "Titles": "",
+                        "Percentage": 41
+                    }
+                ]
+            }
+        ]
+    },
+    "47": {
+        "Name": "Clarendon North Western",
+        "Data": [
+            {
+                "Boxes Counted": "107 of 107",
+                "Candidates": [
+                    {
+                        "Last Name": "HENRIQUES",
+                        "First Name": "PHILLIP",
+                        "Party": "JLP",
+                        "Votes": 6124,
+                        "Titles": "",
+                        "Percentage": 50.3
+                    },
+                    {
+                        "Last Name": "AZAN",
+                        "First Name": "RICHARD",
+                        "Party": "PNP",
+                        "Votes": 6009,
+                        "Titles": "",
+                        "Percentage": 49.3
+                    },
+                    {
+                        "Last Name": "COHEN",
+                        "First Name": "MERRICK",
+                        "Party": "INDA",
+                        "Votes": 51,
+                        "Titles": "",
+                        "Percentage": 0.4
+                    }
+                ]
+            }
+        ]
+    },
+    "48": {
+        "Name": "Clarendon Northern",
+        "Data": [
+            {
+                "Boxes Counted": "97 of 97",
+                "Candidates": [
+                    {
+                        "Last Name": "SIBBLIES",
+                        "First Name": "DWIGHT",
+                        "Party": "JLP",
+                        "Votes": 6030,
+                        "Titles": "",
+                        "Percentage": 53
+                    },
+                    {
+                        "Last Name": "DALLEY",
+                        "First Name": "HORACE",
+                        "Party": "PNP",
+                        "Votes": 5322,
+                        "Titles": "",
+                        "Percentage": 47
+                    }
+                ]
+            }
+        ]
+    },
+    "52": {
+        "Name": "Clarendon South Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "135 of 135",
+                "Candidates": [
+                    {
+                        "Last Name": "CHARLES JR.",
+                        "First Name": "PEARNEL",
+                        "Party": "JLP",
+                        "Votes": 10219,
+                        "Titles": "",
+                        "Percentage": 58
+                    },
+                    {
+                        "Last Name": "DUNCAN-SUTHERLAND",
+                        "First Name": "PATRICIA",
+                        "Party": "PNP",
+                        "Votes": 7275,
+                        "Titles": "",
+                        "Percentage": 42
+                    }
+                ]
+            }
+        ]
+    },
+    "51": {
+        "Name": "Clarendon South Western",
+        "Data": [
+            {
+                "Boxes Counted": "96 of 96",
+                "Candidates": [
+                    {
+                        "Last Name": "COUSINS",
+                        "First Name": "LOTHAN",
+                        "Party": "PNP",
+                        "Votes": 6669,
+                        "Titles": "",
+                        "Percentage": 59
+                    },
+                    {
+                        "Last Name": "GAMMON",
+                        "First Name": "KENT",
+                        "Party": "JLP",
+                        "Votes": 4602,
+                        "Titles": "",
+                        "Percentage": 41
+                    }
+                ]
+            }
+        ]
+    },
+    "34": {
+        "Name": "Hanover Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "95 of 95",
+                "Candidates": [
+                    {
+                        "Last Name": "BROWN",
+                        "First Name": "DAVE",
+                        "Party": "JLP",
+                        "Votes": 5972,
+                        "Titles": "",
+                        "Percentage": 58
+                    },
+                    {
+                        "Last Name": "HINDS",
+                        "First Name": "WAVELL",
+                        "Party": "PNP",
+                        "Votes": 4377,
+                        "Titles": "",
+                        "Percentage": 42
+                    }
+                ]
+            }
+        ]
+    },
+    "35": {
+        "Name": "Hanover Western",
+        "Data": [
+            {
+                "Boxes Counted": "111 of 111",
+                "Candidates": [
+                    {
+                        "Last Name": "DAVIS",
+                        "First Name": "TAMIKA",
+                        "Party": "JLP",
+                        "Votes": 6008,
+                        "Titles": "",
+                        "Percentage": 55
+                    },
+                    {
+                        "Last Name": "HAYLES",
+                        "First Name": "IAN",
+                        "Party": "PNP",
+                        "Votes": 4987,
+                        "Titles": "",
+                        "Percentage": 45
+                    }
+                ]
+            }
+        ]
+    },
+    "2": {
+        "Name": "Kingston Central",
+        "Data": [
+            {
+                "Boxes Counted": "80 of 80",
+                "Candidates": [
+                    {
+                        "Last Name": "WILLIAMS",
+                        "First Name": "DONOVAN",
+                        "Party": "JLP",
+                        "Votes": 4623,
+                        "Titles": "",
+                        "Percentage": 53
+                    },
+                    {
+                        "Last Name": "DUNCAN-PRICE",
+                        "First Name": "IMANI",
+                        "Party": "PNP",
+                        "Votes": 4147,
+                        "Titles": "",
+                        "Percentage": 47
+                    }
+                ]
+            }
+        ]
+    },
+    "3": {
+        "Name": "Kingston East And Port Royal",
+        "Data": [
+            {
+                "Boxes Counted": "88 of 88",
+                "Candidates": [
+                    {
+                        "Last Name": "PAULWELL",
+                        "First Name": "PHILLIP",
+                        "Party": "PNP",
+                        "Votes": 4868,
+                        "Titles": "",
+                        "Percentage": 76
+                    },
+                    {
+                        "Last Name": "PRIESTLY",
+                        "First Name": "EGWUGWU",
+                        "Party": "JLP",
+                        "Votes": 1517,
+                        "Titles": "",
+                        "Percentage": 24
+                    }
+                ]
+            }
+        ]
+    },
+    "1": {
+        "Name": "Kingston Western",
+        "Data": [
+            {
+                "Boxes Counted": "89 of 89",
+                "Candidates": [
+                    {
+                        "Last Name": "MCKENZIE",
+                        "First Name": "DESMOND",
+                        "Party": "JLP",
+                        "Votes": 8480,
+                        "Titles": "",
+                        "Percentage": 91
+                    },
+                    {
+                        "Last Name": "WITTER",
+                        "First Name": "JOSEPH",
+                        "Party": "PNP",
+                        "Votes": 882,
+                        "Titles": "",
+                        "Percentage": 9
+                    }
+                ]
+            }
+        ]
+    },
+    "44": {
+        "Name": "Manchester Central",
+        "Data": [
+            {
+                "Boxes Counted": "128 of 128",
+                "Candidates": [
+                    {
+                        "Last Name": "CRAWFORD",
+                        "First Name": "RHODA",
+                        "Party": "JLP",
+                        "Votes": 8097,
+                        "Titles": "",
+                        "Percentage": 53.0
+                    },
+                    {
+                        "Last Name": "BUNTING",
+                        "First Name": "PETER",
+                        "Party": "PNP",
+                        "Votes": 7112,
+                        "Titles": "",
+                        "Percentage": 46.6
+                    },
+                    {
+                        "Last Name": "CHUNG",
+                        "First Name": "ROHAN",
+                        "Party": "INDA",
+                        "Votes": 67,
+                        "Titles": "",
+                        "Percentage": 0.4
+                    }
+                ]
+            }
+        ]
+    },
+    "46": {
+        "Name": "Manchester North Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "106 of 106",
+                "Candidates": [
+                    {
+                        "Last Name": "SHAW",
+                        "First Name": "AUDLEY",
+                        "Party": "JLP",
+                        "Votes": 6909,
+                        "Titles": "",
+                        "Percentage": 70
+                    },
+                    {
+                        "Last Name": "JACKSON",
+                        "First Name": "DONALD",
+                        "Party": "PNP",
+                        "Votes": 2990,
+                        "Titles": "",
+                        "Percentage": 30
+                    }
+                ]
+            }
+        ]
+    },
+    "45": {
+        "Name": "Manchester North Western",
+        "Data": [
+            {
+                "Boxes Counted": "100 of 100",
+                "Candidates": [
+                    {
+                        "Last Name": "PHILLIPS",
+                        "First Name": "MIKAEL",
+                        "Party": "PNP",
+                        "Votes": 5602,
+                        "Titles": "",
+                        "Percentage": 53
+                    },
+                    {
+                        "Last Name": "YOUNG",
+                        "First Name": "DAMION",
+                        "Party": "JLP",
+                        "Votes": 4879,
+                        "Titles": "",
+                        "Percentage": 47
+                    }
+                ]
+            }
+        ]
+    },
+    "43": {
+        "Name": "Manchester Southern",
+        "Data": [
+            {
+                "Boxes Counted": "114 of 114",
+                "Candidates": [
+                    {
+                        "Last Name": "CHIN",
+                        "First Name": "ROBERT",
+                        "Party": "JLP",
+                        "Votes": 6810,
+                        "Titles": "",
+                        "Percentage": 54
+                    },
+                    {
+                        "Last Name": "STEWART",
+                        "First Name": "MICHAEL",
+                        "Party": "PNP",
+                        "Votes": 5916,
+                        "Titles": "",
+                        "Percentage": 46
+                    }
+                ]
+            }
+        ]
+    },
+    "18": {
+        "Name": "Portland Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "127 of 127",
+                "Candidates": [
+                    {
+                        "Last Name": "VAZ",
+                        "First Name": "ANN-MARIE",
+                        "Party": "JLP",
+                        "Votes": 8271,
+                        "Titles": "",
+                        "Percentage": 56
+                    },
+                    {
+                        "Last Name": "JACKSON",
+                        "First Name": "PURCELL",
+                        "Party": "PNP",
+                        "Votes": 6368,
+                        "Titles": "",
+                        "Percentage": 44
+                    }
+                ]
+            }
+        ]
+    },
+    "19": {
+        "Name": "Portland Western",
+        "Data": [
+            {
+                "Boxes Counted": "102 of 102",
+                "Candidates": [
+                    {
+                        "Last Name": "VAZ",
+                        "First Name": "DARYL",
+                        "Party": "JLP",
+                        "Votes": 6416,
+                        "Titles": "",
+                        "Percentage": 61
+                    },
+                    {
+                        "Last Name": "NEITA-ROBERTSON",
+                        "First Name": "VALERIE",
+                        "Party": "PNP",
+                        "Votes": 4037,
+                        "Titles": "",
+                        "Percentage": 39
+                    }
+                ]
+            }
+        ]
+    },
+    "7": {
+        "Name": "St. Andrew East Central",
+        "Data": [
+            {
+                "Boxes Counted": "111 of 111",
+                "Candidates": [
+                    {
+                        "Last Name": "PHILLIPS",
+                        "First Name": "PETER DAVID",
+                        "Party": "PNP",
+                        "Votes": 4963,
+                        "Titles": "",
+                        "Percentage": 56
+                    },
+                    {
+                        "Last Name": "MYRIE",
+                        "First Name": "JODIAN",
+                        "Party": "JLP",
+                        "Votes": 3881,
+                        "Titles": "",
+                        "Percentage": 44
+                    }
+                ]
+            }
+        ]
+    },
+    "15": {
+        "Name": "St. Andrew East Rural",
+        "Data": [
+            {
+                "Boxes Counted": "122 of 132",
+                "Candidates": [
+                    {
+                        "Last Name": "HOLNESS",
+                        "First Name": "JULIET",
+                        "Party": "JLP",
+                        "Votes": 8901,
+                        "Titles": "",
+                        "Percentage": 58
+                    },
+                    {
+                        "Last Name": "GORDON-WEBLEY",
+                        "First Name": "JOAN",
+                        "Party": "PNP",
+                        "Votes": 6575,
+                        "Titles": "",
+                        "Percentage": 42
+                    }
+                ]
+            }
+        ]
+    },
+    "11": {
+        "Name": "St. Andrew Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "110 of 110",
+                "Candidates": [
+                    {
+                        "Last Name": "WILLIAMS",
+                        "First Name": "FAYVAL",
+                        "Party": "JLP",
+                        "Votes": 6972,
+                        "Titles": "",
+                        "Percentage": 60
+                    },
+                    {
+                        "Last Name": "PHILLIPS",
+                        "First Name": "VENESHA",
+                        "Party": "PNP",
+                        "Votes": 4730,
+                        "Titles": "",
+                        "Percentage": 40
+                    }
+                ]
+            }
+        ]
+    },
+    "13": {
+        "Name": "St. Andrew North Central",
+        "Data": [
+            {
+                "Boxes Counted": "79 of 79",
+                "Candidates": [
+                    {
+                        "Last Name": "SAMUDA",
+                        "First Name": "KARL",
+                        "Party": "JLP",
+                        "Votes": 5471,
+                        "Titles": "",
+                        "Percentage": 73
+                    },
+                    {
+                        "Last Name": "LYNCH",
+                        "First Name": "O'NEIL",
+                        "Party": "PNP",
+                        "Votes": 2010,
+                        "Titles": "",
+                        "Percentage": 27
+                    }
+                ]
+            }
+        ]
+    },
+    "12": {
+        "Name": "St. Andrew North Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "76 of 76",
+                "Candidates": [
+                    {
+                        "Last Name": "CHUCK",
+                        "First Name": "DELROY",
+                        "Party": "JLP",
+                        "Votes": 5105,
+                        "Titles": "",
+                        "Percentage": 72
+                    },
+                    {
+                        "Last Name": "TULLOCH",
+                        "First Name": "DAVID",
+                        "Party": "PNP",
+                        "Votes": 1969,
+                        "Titles": "",
+                        "Percentage": 28
+                    }
+                ]
+            }
+        ]
+    },
+    "14": {
+        "Name": "St. Andrew North Western",
+        "Data": [
+            {
+                "Boxes Counted": "108 of 108",
+                "Candidates": [
+                    {
+                        "Last Name": "CLARKE",
+                        "First Name": "NIGEL",
+                        "Party": "JLP",
+                        "Votes": 6552,
+                        "Titles": "",
+                        "Percentage": 73
+                    },
+                    {
+                        "Last Name": "BANKS",
+                        "First Name": "ROHAN",
+                        "Party": "PNP",
+                        "Votes": 2483,
+                        "Titles": "",
+                        "Percentage": 27
+                    }
+                ]
+            }
+        ]
+    },
+    "10": {
+        "Name": "St. Andrew South Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "90 of 90",
+                "Candidates": [
+                    {
+                        "Last Name": "ROBINSON",
+                        "First Name": "JULIAN",
+                        "Party": "PNP",
+                        "Votes": 4508,
+                        "Titles": "",
+                        "Percentage": 57
+                    },
+                    {
+                        "Last Name": "DOUGLAS",
+                        "First Name": "KARI",
+                        "Party": "JLP",
+                        "Votes": 3342,
+                        "Titles": "",
+                        "Percentage": 43
+                    }
+                ]
+            }
+        ]
+    },
+    "8": {
+        "Name": "St. Andrew South Western",
+        "Data": [
+            {
+                "Boxes Counted": "92 of 92",
+                "Candidates": [
+                    {
+                        "Last Name": "BROWN BURKE",
+                        "First Name": "ANGELA",
+                        "Party": "PNP",
+                        "Votes": 7036,
+                        "Titles": "",
+                        "Percentage": 92
+                    },
+                    {
+                        "Last Name": "LORNE",
+                        "First Name": "MAUREEN",
+                        "Party": "JLP",
+                        "Votes": 629,
+                        "Titles": "",
+                        "Percentage": 8
+                    }
+                ]
+            }
+        ]
+    },
+    "9": {
+        "Name": "St. Andrew Southern",
+        "Data": [
+            {
+                "Boxes Counted": "84 of 84",
+                "Candidates": [
+                    {
+                        "Last Name": "GOLDING",
+                        "First Name": "MARK",
+                        "Party": "PNP",
+                        "Votes": 7881,
+                        "Titles": "",
+                        "Percentage": 88
+                    },
+                    {
+                        "Last Name": "HYDE",
+                        "First Name": "VICTOR",
+                        "Party": "JLP",
+                        "Votes": 1094,
+                        "Titles": "",
+                        "Percentage": 12
+                    }
+                ]
+            }
+        ]
+    },
+    "6": {
+        "Name": "St. Andrew West Central",
+        "Data": [
+            {
+                "Boxes Counted": "103 of 103",
+                "Candidates": [
+                    {
+                        "Last Name": "HOLNESS",
+                        "First Name": "ANDREW",
+                        "Party": "JLP",
+                        "Votes": 7199,
+                        "Titles": "",
+                        "Percentage": 65
+                    },
+                    {
+                        "Last Name": "ROBERTS OD JP",
+                        "First Name": "PATRICK",
+                        "Party": "PNP",
+                        "Votes": 3925,
+                        "Titles": "",
+                        "Percentage": 35
+                    }
+                ]
+            }
+        ]
+    },
+    "4": {
+        "Name": "St. Andrew West Rural",
+        "Data": [
+            {
+                "Boxes Counted": "132 of 132",
+                "Candidates": [
+                    {
+                        "Last Name": "CUTHBERT-FLYNN",
+                        "First Name": "JULIET",
+                        "Party": "JLP",
+                        "Votes": 8620,
+                        "Titles": "",
+                        "Percentage": 61
+                    },
+                    {
+                        "Last Name": "TOMLINSON",
+                        "First Name": "KRYSTAL",
+                        "Party": "PNP",
+                        "Votes": 5547,
+                        "Titles": "",
+                        "Percentage": 39
+                    }
+                ]
+            }
+        ]
+    },
+    "5": {
+        "Name": "St. Andrew Western",
+        "Data": [
+            {
+                "Boxes Counted": "130 of 130",
+                "Candidates": [
+                    {
+                        "Last Name": "HYLTON",
+                        "First Name": "GEORGE",
+                        "Party": "PNP",
+                        "Votes": 6216,
+                        "Titles": "",
+                        "Percentage": 57
+                    },
+                    {
+                        "Last Name": "FRANCIS",
+                        "First Name": "DORLAN",
+                        "Party": "JLP",
+                        "Votes": 4661,
+                        "Titles": "",
+                        "Percentage": 43
+                    }
+                ]
+            }
+        ]
+    },
+    "24": {
+        "Name": "St. Ann North Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "140 of 140",
+                "Candidates": [
+                    {
+                        "Last Name": "SMITH",
+                        "First Name": "MARSHA",
+                        "Party": "JLP",
+                        "Votes": 9059,
+                        "Titles": "",
+                        "Percentage": 65
+                    },
+                    {
+                        "Last Name": "BROWN",
+                        "First Name": "KEITH",
+                        "Party": "PNP",
+                        "Votes": 4887,
+                        "Titles": "",
+                        "Percentage": 35
+                    }
+                ]
+            }
+        ]
+    },
+    "25": {
+        "Name": "St. Ann North Western",
+        "Data": [
+            {
+                "Boxes Counted": "127 of 127",
+                "Candidates": [
+                    {
+                        "Last Name": "LEE",
+                        "First Name": "KRYSTAL",
+                        "Party": "JLP",
+                        "Votes": 7821,
+                        "Titles": "",
+                        "Percentage": 54.4
+                    },
+                    {
+                        "Last Name": "CAMPBELL",
+                        "First Name": "DAYTON",
+                        "Party": "PNP",
+                        "Votes": 5783,
+                        "Titles": "",
+                        "Percentage": 40.2
+                    },
+                    {
+                        "Last Name": "SHAND",
+                        "First Name": "PETER",
+                        "Party": "INDC",
+                        "Votes": 783,
+                        "Titles": "",
+                        "Percentage": 5.4
+                    }
+                ]
+            }
+        ]
+    },
+    "23": {
+        "Name": "St. Ann South Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "126 of 126",
+                "Candidates": [
+                    {
+                        "Last Name": "HANNA",
+                        "First Name": "LISA",
+                        "Party": "PNP",
+                        "Votes": 5124,
+                        "Titles": "",
+                        "Percentage": 50
+                    },
+                    {
+                        "Last Name": "GRANSTON",
+                        "First Name": "DELROY",
+                        "Party": "JLP",
+                        "Votes": 5110,
+                        "Titles": "",
+                        "Percentage": 50
+                    }
+                ]
+            }
+        ]
+    },
+    "26": {
+        "Name": "St. Ann South Western",
+        "Data": [
+            {
+                "Boxes Counted": "103 of 103",
+                "Candidates": [
+                    {
+                        "Last Name": "MAYNE",
+                        "First Name": "ZAVIA",
+                        "Party": "JLP",
+                        "Votes": 7694,
+                        "Titles": "",
+                        "Percentage": 66
+                    },
+                    {
+                        "Last Name": "WINT",
+                        "First Name": "VALENTON",
+                        "Party": "PNP",
+                        "Votes": 4021,
+                        "Titles": "",
+                        "Percentage": 34
+                    }
+                ]
+            }
+        ]
+    },
+    "56": {
+        "Name": "St. Catherine Central",
+        "Data": [
+            {
+                "Boxes Counted": "109 of 109",
+                "Candidates": [
+                    {
+                        "Last Name": "GRANGE",
+                        "First Name": "OLIVIA",
+                        "Party": "JLP",
+                        "Votes": 8179,
+                        "Titles": "",
+                        "Percentage": 90
+                    },
+                    {
+                        "Last Name": "WESTNEY",
+                        "First Name": "MAURICE",
+                        "Party": "PNP",
+                        "Votes": 893,
+                        "Titles": "",
+                        "Percentage": 10
+                    }
+                ]
+            }
+        ]
+    },
+    "63": {
+        "Name": "St. Catherine East Central",
+        "Data": [
+            {
+                "Boxes Counted": "90 of 90",
+                "Candidates": [
+                    {
+                        "Last Name": "TERRELONGE",
+                        "First Name": "ALANDO",
+                        "Party": "JLP",
+                        "Votes": 6374,
+                        "Titles": "",
+                        "Percentage": 59
+                    },
+                    {
+                        "Last Name": "PRYCE",
+                        "First Name": "RAYMOND",
+                        "Party": "PNP",
+                        "Votes": 4358,
+                        "Titles": "",
+                        "Percentage": 41
+                    }
+                ]
+            }
+        ]
+    },
+    "61": {
+        "Name": "St. Catherine Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "118 of 118",
+                "Candidates": [
+                    {
+                        "Last Name": "DALEY",
+                        "First Name": "JOYCE",
+                        "Party": "PNP",
+                        "Votes": 5602,
+                        "Titles": "",
+                        "Percentage": 57
+                    },
+                    {
+                        "Last Name": "PECCOO",
+                        "First Name": "DWIGHT",
+                        "Party": "JLP",
+                        "Votes": 4257,
+                        "Titles": "",
+                        "Percentage": 43
+                    }
+                ]
+            }
+        ]
+    },
+    "58": {
+        "Name": "St. Catherine North Central",
+        "Data": [
+            {
+                "Boxes Counted": "104 of 104",
+                "Candidates": [
+                    {
+                        "Last Name": "NEITA",
+                        "First Name": "NATALIE",
+                        "Party": "PNP",
+                        "Votes": 5653,
+                        "Titles": "",
+                        "Percentage": 56.3
+                    },
+                    {
+                        "Last Name": "CAMPBELL-RODRIQUES",
+                        "First Name": "NATALIE",
+                        "Party": "JLP",
+                        "Votes": 4351,
+                        "Titles": "",
+                        "Percentage": 43.3
+                    },
+                    {
+                        "Last Name": "HENRY J.P.",
+                        "First Name": "JOHN",
+                        "Party": "INDA",
+                        "Votes": 28,
+                        "Titles": "",
+                        "Percentage": 0.3
+                    },
+                    {
+                        "Last Name": "SMITH",
+                        "First Name": "LLOYD",
+                        "Party": "INDB",
+                        "Votes": 8,
+                        "Titles": "",
+                        "Percentage": 0.1
+                    }
+                ]
+            }
+        ]
+    },
+    "60": {
+        "Name": "St. Catherine North Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "107 of 107",
+                "Candidates": [
+                    {
+                        "Last Name": "MORRISON",
+                        "First Name": "KERENSIA",
+                        "Party": "JLP",
+                        "Votes": 5980,
+                        "Titles": "",
+                        "Percentage": 64
+                    },
+                    {
+                        "Last Name": "SENIOR-SMITH",
+                        "First Name": "OSWEST",
+                        "Party": "PNP",
+                        "Votes": 3312,
+                        "Titles": "",
+                        "Percentage": 36
+                    }
+                ]
+            }
+        ]
+    },
+    "53": {
+        "Name": "St. Catherine North Western",
+        "Data": [
+            {
+                "Boxes Counted": "118 of 118",
+                "Candidates": [
+                    {
+                        "Last Name": "GRAHAM",
+                        "First Name": "HUGH",
+                        "Party": "PNP",
+                        "Votes": 5283,
+                        "Titles": "",
+                        "Percentage": 50.0
+                    },
+                    {
+                        "Last Name": "AMOS",
+                        "First Name": "NEWTON",
+                        "Party": "JLP",
+                        "Votes": 5261,
+                        "Titles": "",
+                        "Percentage": 49.8
+                    },
+                    {
+                        "Last Name": "GUTHRIE",
+                        "First Name": "GENE",
+                        "Party": "INDA",
+                        "Votes": 25,
+                        "Titles": "",
+                        "Percentage": 0.2
+                    }
+                ]
+            }
+        ]
+    },
+    "62": {
+        "Name": "St. Catherine South Central",
+        "Data": [
+            {
+                "Boxes Counted": "100 of 100",
+                "Candidates": [
+                    {
+                        "Last Name": "WHEATLEY",
+                        "First Name": "ANDREW",
+                        "Party": "JLP",
+                        "Votes": 6972,
+                        "Titles": "",
+                        "Percentage": 80
+                    },
+                    {
+                        "Last Name": "MATTHEWS",
+                        "First Name": "KURT",
+                        "Party": "PNP",
+                        "Votes": 1699,
+                        "Titles": "",
+                        "Percentage": 20
+                    }
+                ]
+            }
+        ]
+    },
+    "57": {
+        "Name": "St. Catherine South Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "122 of 122",
+                "Candidates": [
+                    {
+                        "Last Name": "MILLER",
+                        "First Name": "ROBERT",
+                        "Party": "JLP",
+                        "Votes": 6829,
+                        "Titles": "",
+                        "Percentage": 54
+                    },
+                    {
+                        "Last Name": "FAGAN",
+                        "First Name": "COLIN",
+                        "Party": "PNP",
+                        "Votes": 5735,
+                        "Titles": "",
+                        "Percentage": 46
+                    }
+                ]
+            }
+        ]
+    },
+    "54": {
+        "Name": "St. Catherine South Western",
+        "Data": [
+            {
+                "Boxes Counted": "137 of 137",
+                "Candidates": [
+                    {
+                        "Last Name": "WARMINGTON",
+                        "First Name": "CLIFFORD",
+                        "Party": "JLP",
+                        "Votes": 11185,
+                        "Titles": "",
+                        "Percentage": 64.6
+                    },
+                    {
+                        "Last Name": "WAUL",
+                        "First Name": "KURT",
+                        "Party": "PNP",
+                        "Votes": 6084,
+                        "Titles": "",
+                        "Percentage": 35.1
+                    },
+                    {
+                        "Last Name": "BLAKE",
+                        "First Name": "UPTON",
+                        "Party": "INDA",
+                        "Votes": 51,
+                        "Titles": "",
+                        "Percentage": 0.3
+                    }
+                ]
+            }
+        ]
+    },
+    "55": {
+        "Name": "St. Catherine Southern",
+        "Data": [
+            {
+                "Boxes Counted": "138 of 138",
+                "Candidates": [
+                    {
+                        "Last Name": "JACKSON",
+                        "First Name": "FITZ",
+                        "Party": "PNP",
+                        "Votes": 6318,
+                        "Titles": "",
+                        "Percentage": 53
+                    },
+                    {
+                        "Last Name": "DOBNEY",
+                        "First Name": "DELROY",
+                        "Party": "JLP",
+                        "Votes": 5576,
+                        "Titles": "",
+                        "Percentage": 47
+                    }
+                ]
+            }
+        ]
+    },
+    "59": {
+        "Name": "St. Catherine West Central",
+        "Data": [
+            {
+                "Boxes Counted": "120 of 120",
+                "Candidates": [
+                    {
+                        "Last Name": "TUFTON",
+                        "First Name": "CHRIS",
+                        "Party": "JLP",
+                        "Votes": 6986,
+                        "Titles": "",
+                        "Percentage": 76
+                    },
+                    {
+                        "Last Name": "BROWN",
+                        "First Name": "KENYAMA",
+                        "Party": "PNP",
+                        "Votes": 2167,
+                        "Titles": "",
+                        "Percentage": 24
+                    }
+                ]
+            }
+        ]
+    },
+    "40": {
+        "Name": "St. Elizabeth North Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "120 of 120",
+                "Candidates": [
+                    {
+                        "Last Name": "SLOWLEY",
+                        "First Name": "DELROY",
+                        "Party": "JLP",
+                        "Votes": 7029,
+                        "Titles": "",
+                        "Percentage": 52
+                    },
+                    {
+                        "Last Name": "WAITE",
+                        "First Name": "BASIL",
+                        "Party": "PNP",
+                        "Votes": 6524,
+                        "Titles": "",
+                        "Percentage": 48
+                    }
+                ]
+            }
+        ]
+    },
+    "39": {
+        "Name": "St. Elizabeth North Western",
+        "Data": [
+            {
+                "Boxes Counted": "87 of 87",
+                "Candidates": [
+                    {
+                        "Last Name": "HUTCHINSON",
+                        "First Name": "WILLIAM",
+                        "Party": "JLP",
+                        "Votes": 4834,
+                        "Titles": "",
+                        "Percentage": 69
+                    },
+                    {
+                        "Last Name": "KEATING",
+                        "First Name": "RYAN",
+                        "Party": "PNP",
+                        "Votes": 2163,
+                        "Titles": "",
+                        "Percentage": 31
+                    }
+                ]
+            }
+        ]
+    },
+    "42": {
+        "Name": "St. Elizabeth South Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "104 of 104",
+                "Candidates": [
+                    {
+                        "Last Name": "WITTER",
+                        "First Name": "FRANKLIN",
+                        "Party": "JLP",
+                        "Votes": 8995,
+                        "Titles": "",
+                        "Percentage": 59
+                    },
+                    {
+                        "Last Name": "SPENCER",
+                        "First Name": "DWAINE",
+                        "Party": "PNP",
+                        "Votes": 6349,
+                        "Titles": "",
+                        "Percentage": 41
+                    }
+                ]
+            }
+        ]
+    },
+    "41": {
+        "Name": "St. Elizabeth South Western",
+        "Data": [
+            {
+                "Boxes Counted": "105 of 105",
+                "Candidates": [
+                    {
+                        "Last Name": "GREEN",
+                        "First Name": "FLOYD",
+                        "Party": "JLP",
+                        "Votes": 9212,
+                        "Titles": "",
+                        "Percentage": 56
+                    },
+                    {
+                        "Last Name": "STEPHENSON",
+                        "First Name": "EWAN",
+                        "Party": "PNP",
+                        "Votes": 7106,
+                        "Titles": "",
+                        "Percentage": 44
+                    }
+                ]
+            }
+        ]
+    },
+    "31": {
+        "Name": "St. James Central",
+        "Data": [
+            {
+                "Boxes Counted": "99 of 99",
+                "Candidates": [
+                    {
+                        "Last Name": "CLARKE",
+                        "First Name": "HEROY",
+                        "Party": "JLP",
+                        "Votes": 6456,
+                        "Titles": "",
+                        "Percentage": 64.0
+                    },
+                    {
+                        "Last Name": "HYLTON",
+                        "First Name": "ANDRE",
+                        "Party": "PNP",
+                        "Votes": 3607,
+                        "Titles": "",
+                        "Percentage": 35.8
+                    },
+                    {
+                        "Last Name": "BLACK",
+                        "First Name": "ASTOR",
+                        "Party": "INDA",
+                        "Votes": 23,
+                        "Titles": "",
+                        "Percentage": 0.2
+                    }
+                ]
+            }
+        ]
+    },
+    "29": {
+        "Name": "St. James East Central",
+        "Data": [
+            {
+                "Boxes Counted": "112 of 112",
+                "Candidates": [
+                    {
+                        "Last Name": "BARTLETT",
+                        "First Name": "EDMUND",
+                        "Party": "JLP",
+                        "Votes": 7338,
+                        "Titles": "",
+                        "Percentage": 70
+                    },
+                    {
+                        "Last Name": "HEMMINGS",
+                        "First Name": "MICHAEL",
+                        "Party": "PNP",
+                        "Votes": 3206,
+                        "Titles": "",
+                        "Percentage": 30
+                    }
+                ]
+            }
+        ]
+    },
+    "30": {
+        "Name": "St. James North Western",
+        "Data": [
+            {
+                "Boxes Counted": "94 of 95",
+                "Candidates": [
+                    {
+                        "Last Name": "CHANG",
+                        "First Name": "HORACE",
+                        "Party": "JLP",
+                        "Votes": 5992,
+                        "Titles": "",
+                        "Percentage": 76
+                    },
+                    {
+                        "Last Name": "HAMILTON",
+                        "First Name": "GEORGE",
+                        "Party": "PNP",
+                        "Votes": 1880,
+                        "Titles": "",
+                        "Percentage": 24
+                    }
+                ]
+            }
+        ]
+    },
+    "33": {
+        "Name": "St. James Southern",
+        "Data": [
+            {
+                "Boxes Counted": "106 of 106",
+                "Candidates": [
+                    {
+                        "Last Name": "DAVIS",
+                        "First Name": "HOMER",
+                        "Party": "JLP",
+                        "Votes": 7223,
+                        "Titles": "",
+                        "Percentage": 58
+                    },
+                    {
+                        "Last Name": "SMALL",
+                        "First Name": "WALTON",
+                        "Party": "PNP",
+                        "Votes": 5275,
+                        "Titles": "",
+                        "Percentage": 42
+                    }
+                ]
+            }
+        ]
+    },
+    "32": {
+        "Name": "St. James West Central",
+        "Data": [
+            {
+                "Boxes Counted": "101 of 101",
+                "Candidates": [
+                    {
+                        "Last Name": "MALAHOO FORTE",
+                        "First Name": "MARLENE",
+                        "Party": "JLP",
+                        "Votes": 6144,
+                        "Titles": "",
+                        "Percentage": 58
+                    },
+                    {
+                        "Last Name": "HAUGHTON",
+                        "First Name": "ANDRE",
+                        "Party": "PNP",
+                        "Votes": 4389,
+                        "Titles": "",
+                        "Percentage": 42
+                    }
+                ]
+            }
+        ]
+    },
+    "21": {
+        "Name": "St. Mary Central",
+        "Data": [
+            {
+                "Boxes Counted": "101 of 101",
+                "Candidates": [
+                    {
+                        "Last Name": "GUY",
+                        "First Name": "MORAIS",
+                        "Party": "PNP",
+                        "Votes": 6224,
+                        "Titles": "",
+                        "Percentage": 52
+                    },
+                    {
+                        "Last Name": "RICHARDS",
+                        "First Name": "LENNON",
+                        "Party": "JLP",
+                        "Votes": 5754,
+                        "Titles": "",
+                        "Percentage": 48
+                    }
+                ]
+            }
+        ]
+    },
+    "20": {
+        "Name": "St. Mary South Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "107 of 107",
+                "Candidates": [
+                    {
+                        "Last Name": "DUNN",
+                        "First Name": "NORMAN",
+                        "Party": "JLP",
+                        "Votes": 7117,
+                        "Titles": "",
+                        "Percentage": 57
+                    },
+                    {
+                        "Last Name": "ALEXIS",
+                        "First Name": "SHANE",
+                        "Party": "PNP",
+                        "Votes": 5381,
+                        "Titles": "",
+                        "Percentage": 43
+                    }
+                ]
+            }
+        ]
+    },
+    "22": {
+        "Name": "St. Mary Western",
+        "Data": [
+            {
+                "Boxes Counted": "140 of 140",
+                "Candidates": [
+                    {
+                        "Last Name": "MONTAGUE",
+                        "First Name": "ROBERT 'BOBBY'",
+                        "Party": "JLP",
+                        "Votes": 9770,
+                        "Titles": "",
+                        "Percentage": 61
+                    },
+                    {
+                        "Last Name": "STANFORD",
+                        "First Name": "JASON",
+                        "Party": "PNP",
+                        "Votes": 6346,
+                        "Titles": "",
+                        "Percentage": 39
+                    }
+                ]
+            }
+        ]
+    },
+    "17": {
+        "Name": "St. Thomas Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "123 of 123",
+                "Candidates": [
+                    {
+                        "Last Name": "CHARLES",
+                        "First Name": "MICHELLE",
+                        "Party": "JLP",
+                        "Votes": 6126,
+                        "Titles": "",
+                        "Percentage": 53
+                    },
+                    {
+                        "Last Name": "FERGUSON",
+                        "First Name": "FENTON",
+                        "Party": "PNP",
+                        "Votes": 5392,
+                        "Titles": "",
+                        "Percentage": 47
+                    }
+                ]
+            }
+        ]
+    },
+    "16": {
+        "Name": "St. Thomas Western",
+        "Data": [
+            {
+                "Boxes Counted": "150 of 152",
+                "Candidates": [
+                    {
+                        "Last Name": "ROBERTSON",
+                        "First Name": "JAMES",
+                        "Party": "JLP",
+                        "Votes": 8299,
+                        "Titles": "",
+                        "Percentage": 60
+                    },
+                    {
+                        "Last Name": "FRANCIS",
+                        "First Name": "MARSHA",
+                        "Party": "PNP",
+                        "Votes": 5423,
+                        "Titles": "",
+                        "Percentage": 40
+                    }
+                ]
+            }
+        ]
+    },
+    "27": {
+        "Name": "Trelawny Northern",
+        "Data": [
+            {
+                "Boxes Counted": "135 of 135",
+                "Candidates": [
+                    {
+                        "Last Name": "HAMILTON",
+                        "First Name": "TOVA",
+                        "Party": "JLP",
+                        "Votes": 8508,
+                        "Titles": "",
+                        "Percentage": 55.5
+                    },
+                    {
+                        "Last Name": "WRIGHT JNR",
+                        "First Name": "VICTOR",
+                        "Party": "PNP",
+                        "Votes": 6771,
+                        "Titles": "",
+                        "Percentage": 44.2
+                    },
+                    {
+                        "Last Name": "DAWKINS",
+                        "First Name": "GENIEVE",
+                        "Party": "INDA",
+                        "Votes": 51,
+                        "Titles": "",
+                        "Percentage": 0.3
+                    }
+                ]
+            }
+        ]
+    },
+    "28": {
+        "Name": "Trelawny Southern",
+        "Data": [
+            {
+                "Boxes Counted": "95 of 95",
+                "Candidates": [
+                    {
+                        "Last Name": "DALRYMPLE-PHILIBERT",
+                        "First Name": "MARISA",
+                        "Party": "JLP",
+                        "Votes": 7093,
+                        "Titles": "",
+                        "Percentage": 69.9
+                    },
+                    {
+                        "Last Name": "GILLINGS",
+                        "First Name": "LLOYD \"MOZY\"",
+                        "Party": "PNP",
+                        "Votes": 3030,
+                        "Titles": "",
+                        "Percentage": 29.9
+                    },
+                    {
+                        "Last Name": "SHARPE",
+                        "First Name": "RICHARD",
+                        "Party": "INDA",
+                        "Votes": 24,
+                        "Titles": "",
+                        "Percentage": 0.2
+                    }
+                ]
+            }
+        ]
+    },
+    "37": {
+        "Name": "Westmoreland Central",
+        "Data": [
+            {
+                "Boxes Counted": "167 of 167",
+                "Candidates": [
+                    {
+                        "Last Name": "WRIGHT",
+                        "First Name": "GEORGE",
+                        "Party": "JLP",
+                        "Votes": 8428,
+                        "Titles": "",
+                        "Percentage": 53.8
+                    },
+                    {
+                        "Last Name": "VAZ",
+                        "First Name": "DWAYNE",
+                        "Party": "PNP",
+                        "Votes": 7200,
+                        "Titles": "",
+                        "Percentage": 45.9
+                    },
+                    {
+                        "Last Name": "BECKFORD",
+                        "First Name": "TORAINO",
+                        "Party": "INDA",
+                        "Votes": 28,
+                        "Titles": "",
+                        "Percentage": 0.2
+                    },
+                    {
+                        "Last Name": "FOOTE",
+                        "First Name": "DON. A.",
+                        "Party": "INDB",
+                        "Votes": 22,
+                        "Titles": "",
+                        "Percentage": 0.1
+                    }
+                ]
+            }
+        ]
+    },
+    "38": {
+        "Name": "Westmoreland Eastern",
+        "Data": [
+            {
+                "Boxes Counted": "117 of 117",
+                "Candidates": [
+                    {
+                        "Last Name": "LAWRENCE",
+                        "First Name": "DANIEL",
+                        "Party": "JLP",
+                        "Votes": 4831,
+                        "Titles": "",
+                        "Percentage": 49.9
+                    },
+                    {
+                        "Last Name": "BUCHANAN",
+                        "First Name": "LUTHER",
+                        "Party": "PNP",
+                        "Votes": 4823,
+                        "Titles": "",
+                        "Percentage": 49.8
+                    },
+                    {
+                        "Last Name": "MIKA'EL",
+                        "First Name": "HAILE",
+                        "Party": "INDA",
+                        "Votes": 30,
+                        "Titles": "",
+                        "Percentage": 0.3
+                    }
+                ]
+            }
+        ]
+    },
+    "36": {
+        "Name": "Westmoreland Western",
+        "Data": [
+            {
+                "Boxes Counted": "121 of 121",
+                "Candidates": [
+                    {
+                        "Last Name": "WILSON",
+                        "First Name": "MORLAND",
+                        "Party": "JLP",
+                        "Votes": 6116,
+                        "Titles": "",
+                        "Percentage": 55
+                    },
+                    {
+                        "Last Name": "MCNEILL",
+                        "First Name": "KENNETH",
+                        "Party": "PNP",
+                        "Votes": 5069,
+                        "Titles": "",
+                        "Percentage": 45
+                    }
+                ]
+            }
+        ]
+    }
+}
